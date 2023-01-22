@@ -3,6 +3,8 @@ The TRUST Framework© provides a path for organisations to create a more efficie
 
 It starts with this simple axiom: maximising trust throughout the organisation, in all directions, creates a more efficient and happier working environment, resulting in higher value creation for the organisation and its stakeholders.
 
+To get started, please visit us at [https://trust-framework.com/](https://trust-framework.com/)
+
 ## We want you! 🫵
 
 We would like you to join the TRUST community! We are actively looking for champions to help develop the framework, give talks, create tools, resources and more! So, don't hesitate to get in touch.

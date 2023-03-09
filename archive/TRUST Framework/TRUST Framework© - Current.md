@@ -3,9 +3,10 @@ alias: "current"
 ---
 
 # TRUST Framework
-Version: [1.0](https://github.com/Pr0j3c7t0dd-Ltd/trust-framework)
+Version: [1.0.1](https://github.com/Pr0j3c7t0dd-Ltd/trust-framework)
 [https://trust-framework.com/current](https://trust-framework.com/current)
-Published: 2023-01-22
+📄  [[TRUST Framework© v1.0.1.pdf|PDF version]]
+Published: 2023-02-09
 
 # Introduction
 
@@ -14,6 +15,18 @@ Welcome to the TRUST Framework community! We hope you find this framework for es
 ## Getting started
 
 If you are new to the TRUST framework, start by reading the framework, beginning with **Axiom 0**. If you already have a good grasp of trust principles and why establishing a model of trust is important, then you can skip to the second half of this document, which provides practical guidance on implementing the framework in your organisation and a playbook that  describes specific techniques for applying the framework.
+
+## Why do we trust people and organisations?
+
+Most of us want to trust people and organisations because it makes work more efficient and enjoyable.
+
+Trusting is a very ‘human’ thing to do - our community, society, and culture is built on trust relationships. In the Dark Ages, tribalism and a lack of trust produced closed societies that advanced slowly, with no free exchange of ideas, goods and services. Clearly, a world without trust would not be a world most of us would like to live in.
+
+In our day to day lives we trust many institutions, such as the international postal system, airline safety and contactless payments, just to name a few.  Trusted food safety standards means we can shop without fear of food-borne illnesses like salmonella and having these standards allow efficient production and free trade across borders, meaning lower costs for consumers.
+
+Consider the next time you visit a store and use a self-serve checkout; see how you simply tapped your phone on a screen and walked out of the store with your items - and nobody gets upset.  The merchant does not worry that they will not get paid and you don’t worry that your account will be incorrectly debited.  This is just one example of the power of trust in shaping an efficient and enjoyable society.
+
+Trust also promotes freedom and liberty for its participants.  When a party is trusted, it gives them the freedom to live and work in ways that they find are most in-line with their preferred ways of working and the task at hand.
 
 
 # Why the TRUST Framework?
@@ -28,7 +41,7 @@ Agile is extremely good at encouraging people to adopt methods that build trust,
 
 When we make trust an explicit goal, it becomes easier to ensure that processes are applied in ways that build and support trust, rather than reducing trust.
 
-For example, sharing the information people need to do their jobs (transparency) is helpful in a high trust environment. However, in a low trust environment, transparency could be used defensively as people try to cover themselves. 
+For example, sharing the information people need to do their jobs (transparency) is helpful in a high trust environment. However, in a low trust environment, transparency could be used defensively as people try to cover themselves.
 
 ### Examples of Agile concepts in high and low trust environments
 
@@ -45,52 +58,42 @@ Existing frameworks don’t address trust as a first-class citizen when it comes
 
 Many teams fail to adopt Agile delivery practices because they don’t have, and aren’t moving towards, a high trust environment. In fact, teams might need multiple approaches, as projects progress and levels of trust change. For example, it’s common for teams working in low-trust environments to use highly structured Agile frameworks, which allow trust to be built over time. However, as the environment changes and trust increases, the structure can be removed and the team may adopt a more Lean approach.
 
-This shows why it’s important to understand how Agile approaches can be adapted and applied at different stages of maturity.  
+This shows why it’s important to understand how Agile approaches can be adapted and applied at different stages of maturity.
 
-# The trust journey
 
-## Why do we trust people and organisations?
+# The Trust Model
 
-Most of us want to trust people and organisations because it makes work more efficient and enjoyable.
-
-In modern society, trusted food safety standards means we can shop without fear of food-borne illnesses like salmonella. Food standards allow for efficient production and free trade across borders, meaning lower costs for consumers.
-
-In the Dark Ages, tribalism and a lack of trust produced closed societies that advanced slowly, with no free exchange of ideas, goods and services. Clearly, a world without trust would be highly inefficient. 
-
-## The Trust Model
-
-![[Trust Model.excalidraw.png]]
+![[Simplified trust model.excalidraw.png]]
 
 *\[Source: [Graham Dietz (2011) Going back to the source: Why do people trust each other?, Journal of Trust Research, 1:2, 215-222, DOI: 10.1080/21515581.2011.603514](https://doi.org/10.1080/21515581.2011.603514)\]*
 
-In the trust model diagram above, Graham Dietz outlines the input, process and outputs of the trust process.
+The simplified trust model diagram above, based on the paper by Graham Dietz, outlines the input, process and outputs of the trust process cycle.
 
 ### Inputs
 
--   Trustor’s pre-disposition to trust: all parties enter a new relationship with varying levels of trust. 
--   Trustee’s character, motive, abilities, behaviours: these traits must be considered when entering into a new relationship.  
--   Nature of the trustee-trustor relationship: the level of trust in a relationship will depend on things like the historical relationship and power dynamics between trustees. For example, a partnership will often have a different trust dynamic than a supplier-customer relationship. 
--   Situational influences [institutions, culture, role and reputation]: the implicit trust that is built up by organisations through constraints and organisational practices which are reflected in relationships when people come from that organisation.
--   Domain-specific concerns: working in a national security context will likely bring about different concerns than creating a marketing website in the retail sector.
+-  **Trustor’s pre-disposition to trust:** all parties enter a new relationship with varying levels of trust. 
+-  **Trustee’s character, motive, abilities, behaviours:** these traits must be considered when entering into a new relationship.  
+-  **Nature of the trustee-trustor relationship:** the level of trust in a relationship will depend on things like the historical relationship and power dynamics between trustees. For example, a partnership will often have a different trust dynamic than a supplier-customer relationship. 
+-  **Situational influences (institutions, culture, role and reputation):** the implicit trust that is built up by organisations through constraints and organisational practices which are reflected in relationships when people come from that organisation.
+-  **Domain-specific concerns:** working in a national security context will likely bring about different concerns than creating a marketing website in the retail sector.
 
 ### Process
 
--   Evaluating trustworthiness: What confident, positive expectations do you have, based on the ability, benevolence and integrity of the other party?
--   Deciding to trust: How will you evaluate the risks and consequences, and demonstrate a willingness to to be vulnerable and take action? 
+- **Evaluating trustworthiness:** What confident, positive expectations do you have, based on the ability, benevolence and integrity of the other party?
+- **Deciding to trust:** How will you evaluate the risks and consequences, and demonstrate a willingness to to be vulnerable and take action? 
 
 ### Output
 
--   A risk-taking action: this could mean starting a new project, making a decision to go forward, signing a contract, etc.
+- **A risk-taking action:** this could mean starting a new project, making a decision to go forward, signing a contract, etc.
 
 ### Feedback loop
 
--   The actions taken in a relationship create new inputs into a relationship, especially around pre-disposition to trust. Over time, our level of trust in a relationship is increasingly defined by past actions and outcomes.
+- The actions taken in a relationship create new inputs into a relationship, especially around pre-disposition to trust. Over time, our level of trust in a relationship is increasingly defined by past actions and outcomes.
 
 ## The impact of trust on the relationship lifecycle
 
 Working relationships go through different stages of trust as they mature.
-
-![[TRUST Delivery Lifecycle.excalidraw.png]]
+![[TRUST Delivery Lifecycle.excalidraw 1.png]]
 
 | Stage                               | Definition                                                                                                                                              | Trust Multipliers                                                                                                                                                                                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,19 +112,25 @@ Given what we know about the inputs into the trust model, how do we create and b
 
 ## Establishing a trust culture
 
-Building a high-trust environment requires you to establish and maintain a trust culture. A trust culture means that people within a team or organisation adopt an expected set of behaviours and attitudes that build and demonstrate trust. 
+The root of a high-trust environment is culture. Therefore, building a high-trust environment requires you to establish and maintain a trust culture. A trust culture means that people within a team or organisation adopt an expected set of values, behaviours and attitudes that build and demonstrate trust. 
 
-Having an active trust culture makes it easier to hire and establish teams that value trust, but how do you create a trust culture? 
+Having an active trust culture makes it easier to hire and establish teams that value trust, but how do you create a trust culture? 
 
 A good place to start is building trust into your operating model, which will feed through into ways of working. Leaders should be clear about the importance of trust in the organisation, setting priorities and budgets accordingly.
 
-When embarking on a new relationship, look for opportunities to build goodwill early in the relationship – this is a great investment for the long term. 
+When embarking on a new relationship, look for opportunities to build goodwill early in the relationship – this is a great investment for the long term. 
 
 Finally, establish a no-blame culture. Give genuine autonomy to your teams, and be authentic in giving and receiving feedback.
 
+## Adult-Adult relationships
+
+An Adult-Adult relationship (vs an Adult-Child relationship) is a relationship where both parties treat each other with mutual respect, on equal terms.  Establishing Adult-Adult relationships within organisations, teams and between 3rd parties promotes trust and gets away from the antipattern of the more ‘command and control’ style Adult-Child relationships.
+
+Analyse and review your current relationships and question if they are Adult-Adult or Adult-Child.  If they are Adult-Child, question how you can elevate the relationship to an Adult-Adult one.  Setup new relationships in an Adult-Adult style.
+
 ## Psychological safety
 
-Another important element of trust is building a culture where people feel safe to be vulnerable and take risks in front of each other. 
+Another important element of trust is building a culture where people feel safe to be vulnerable and take risks in front of each other. 
 
 Psychological safety is about ensuring everyone feels safe to make suggestions or ask questions without worrying they will be seen as less competent or knowledgeable. When we feel safe in the workplace, we’re more likely to admit mistakes, collaborate freely and take on new roles.
 
@@ -168,37 +177,9 @@ Upfront clarity is important, but it’s worth noting that expectations are neve
 
 # Trust Management
 
+Trust management is similar to quality - It’s **everybody’s** responsibility, and successful trust management is about **ACTIVELY** managing trust.  This means that trust issues should be addressed as soon as they arise.
+
 What are the concrete actions that you can take to establish, build and maintain trust in your organisation?
-
-## Reputation
-
-Before you enter a trust relationship or in an ongoing relationship, each party already has a perceived reputation. This is based on many things, including organisational and individual reputation, previous track record, perceived abilities and expertise.
-
-### Organisational reputation
-
-To establish reputational credibility at the organisational level, the following actions should be taken:
-
-**Deliver:** delivering on your commitments is paramount to establishing and maintaining your reputation.
-
-**Credentialism:** create collateral that demonstrates your previous delivery track record. Provide details of areas where you have had a positive impact. Show don’t tell. It’s important to demonstrate through example rather than just proclaim your achievements.
-
-#### What can be done to build organisational reputation? 
--   Deliver, deliver, deliver!
--   Establish credentials through clear communication of past achievements.
--   When possible, have existing customers or stakeholders available to give candid feedback about your performance to new parties.
--   Understand the interpersonal relationships that may already exist between your team members and external stakeholders.
--   Clearly and publicly state your organisational values.
-
-### Individual reputation
-
-To establish individual reputation, the following actions should be taken:
-
-#### What can be done to build individual reputation? 
--   Deliver against your stated commitments.
--   Develop a network of people who can support your credentials with personal recommendations.
--   Document your contributions and achievements in previous projects and capture lessons learned.
--   Demonstrate your abilities through industry talks, blogs, books and community activity.
--   If looking for work, update your social media and professional profiles, include job titles and context around your responsibilities and role within the teams. Display your skills and leadership experience throughout the interview process through demonstrable examples.
 
 ## Establish trust
 
@@ -235,15 +216,23 @@ When done well, this creates a trust flywheel, as the feedback loop of trust mak
 -   Acknowledge mistakes, and when others make them, reinforce a no-blame culture. Use the opportunity to learn and grow as a team.
 -   Use retrospectives to incrementally improve ways of working and to address trust issues as they arise.
 
+### Continuous investment in trust
+
+Because improving trust positively affects the ability to deliver value, it’s important to continuously invest in developing trust maturity in your organisation.
+
+This may include setting aside a budget for trust-related activities, appointing trust-specific roles within your organisation and/or further developing aspects of a high-trust environment.
+
+Review your trust-based investments on a regular basis to ensure they are adequate for your needs.
+
 ### Long term relationships
 
 To maintain trust over a long period of time, it’s important not to take a relationship for granted. In many cases there will be turnover in people within organisations and the working environment, which can erode trusted relationships built over time. To address this, deliberately schedule checkpoints to review the relationship and acknowledge changes that have occurred, both within the relationship and external factors. You should hold frequent retrospectives to find opportunities to repair any trust gaps that might have occurred.
 
 ## Roles and responsibilities
 
-Trust management across the organisation should be seen as similar to the concept of quality, in that it’s everyone’s concern and responsibility lies with all parties. 
+Trust management across the organisation should be seen as similar to the concept of quality, in that it’s everyone’s concern and responsibility lies with all parties. 
 
-While having trust champions throughout the organisation is advisable, appointing a dedicated person with the responsibility of building and maintaining trust is also recommended. This role raises trust concepts with the teams, actively works to build trust, and should be supported by leadership. The role is justifiable given the opportunity for efficiency and wellbeing improvements.
+While having trust champions throughout the organisation is advisable, appointing a dedicated person with the responsibility of building and maintaining trust, such as a Trust Leader, is also recommended. This role raises trust concepts with the teams, actively works to build trust, and should be supported by leadership. The role is justifiable given the opportunity for efficiency and wellbeing improvements.
 
 The responsibilities of the role(s) managing trust within the organisation are as follows:
 -   Establishing and promoting a stated trust culture, with clear engagement and support from leadership
@@ -254,25 +243,66 @@ The responsibilities of the role(s) managing trust within the organisation are a
 -   Transparently reporting trust level across the organisation
 -   Keep the trust management process as Lean as possible
 
+## Reputation and trust
+
+Before you enter a trust relationship or in an ongoing relationship, each party already has a perceived reputation. This is based on many things, including organisational and individual reputation, previous track record, perceived abilities and expertise.
+
+### Organisational reputation
+
+To establish reputational credibility at the organisational level, the following actions should be taken:
+
+**Deliver:** delivering on your commitments is paramount to establishing and maintaining your reputation.
+
+**Credentialism:** create collateral that demonstrates your previous delivery track record. Provide details of areas where you have had a positive impact. Show don’t tell. It’s important to demonstrate through example rather than just proclaim your achievements.
+
+#### What can be done to build organisational reputation? 
+-   Deliver, deliver, deliver!
+-   Establish credentials through clear communication of past achievements.
+-   When possible, have existing customers or stakeholders available to give candid feedback about your performance to new parties.
+-   Understand the interpersonal relationships that may already exist between your team members and external stakeholders.
+-   Clearly and publicly state your organisational values.
+
+### Individual reputation
+
+To establish individual reputation, the following actions should be taken:
+
+#### What can be done to build individual reputation? 
+-   Deliver against your stated commitments.
+-   Develop a network of people who can support your credentials with personal recommendations.
+-   Document your contributions and achievements in previous projects and capture lessons learned.
+-   Demonstrate your abilities through industry talks, blogs, books and community activity.
+-   If looking for work, update your social media and professional profiles, include job titles and context around your responsibilities and role within the teams. Display your skills and leadership experience throughout the interview process through demonstrable examples.
+
+
 # Restoring Lost Trust
 
-It is important to acknowledge when a trust relationship has been damaged. Understanding how and why a relationship soured is critical if the relationship is to be repaired. 
+It is important to acknowledge when a trust relationship has been damaged. Understanding how and why a relationship soured is critical if the relationship is to be repaired. 
 
 ## Loss of trust events
 
-![[TRUST recovery point.excalidraw.png]]
+![[TRUST recovery point - black.excalidraw.png]]
 
 Loss of trust events are natural. It’s normal for things to go wrong, resulting in a deterioration of trust. What’s important is how such events are dealt with. The goal is to quickly reestablish trust.
 
 A common reaction to a loss of trust event is to put in more process to try and prevent the event from happening again. This additional process adds inefficiencies and can further erode trust, for example, through the increased surveillance of individuals, more oversight or checking of work. Although the intention is to prevent issues from occurring in the future, added surveillance measures move relationships away from trust, and it can be difficult to regain. The root cause of the trust loss isn’t fixed, it is monitored in the hope that it is prevented, or worse yet, it is ignored and hoped that it goes away. There is a loss of faith in people, and processes are created that disempower and demotivate.
 
-The intervention point should start with the thought, “How can trust be regained?”  
+The intervention point should start with the thought, “How can trust be regained?”  
 
-More oversight can be considered, but only if it is a temporary measure with the purpose of regaining trust, agreed upon by all parties.  Any intervention should result in the rebuilding of trust. Any intervention that does not have this goal will likely further erode trust.
+More oversight can be considered, but only if it is a temporary measure with the purpose of regaining trust, agreed upon by all parties.  Any intervention should result in the rebuilding of trust. Any intervention that does not have this goal will likely further erode trust.
 
 An example of an intervention that can rebuild trust is the Blameless Postmortem, where people are empowered to accept what happened, and learn from it. The team then assigns actions to fix the root cause. They are trusted to resolve the issue. Another example could be more frequent meetings between individuals where a loss of trust has occurred, which is an inefficiency in the short term (due to the lack of trust), but has the goal of rebuilding trust.
 
 Once trust has been reestablished, any additional or inefficient processes that had been added to address the issue should be removed.
+
+## Early intervention
+
+![[TRUST delta point - black.excalidraw.png]]
+
+This diagram shows a branch at an event, where two potential outcomes could happen, one where trust is gained, and one where it is lost. The ideal is to **minimise any trust losses, and maximise trust gains.** 
+
+There shouldn’t be big drops in the amount of trust we have, if this happens, it can be an indicator of a low trust environment, with people waiting for things to go wrong.
+
+With focus being on quick trust recovery, we’ll also want to take preventative action in advance to not let that trust drop too much. Create an environment to prevent big trust drops using Agile thinking, such as being transparent and addressing trust issues as soon as they arise.
 
 ## Broken trust
 
@@ -282,15 +312,27 @@ Unfortunately, there are times when there is a mutual agreement that the relatio
 
 ## Misplaced trust
 
-Misplaced trust is antithetical to high trust. It’s possible to trust another party wholeheartedly, only to have our positive assumptions dashed by bad actors. It’s important to validate your understanding of inputs through due diligence - a trust relationship should never be based on intuition alone. 
+Misplaced trust is antithetical to high trust. It’s possible to trust another party wholeheartedly, only to have our positive assumptions dashed by bad actors. It’s important to validate your understanding of inputs through due diligence - a trust relationship should never be based on intuition alone. 
 
 Trust can be misplaced but this doesn’t mean you shouldn’t ever trust another party. Try to understand the risks you are taking but don’t allow a previous poor relationship to affect your ability to build new relationships with a fresh set of eyes.
 
+
+# Trust and risk
+
+Trusting people does not mean that we abandon all processes.  In fact, some process is a necessary part of an effective way of work.  However, if we do establish processes, then the processes should be beneficial for all parties involved. We shouldn’t add processes because a single person doesn’t trust another part of the business.
+
+In high risk situations, there may be processes that are proportional to the risk.  For example, handing firearms may involve elaborate steps to ensure the guns are safe before passing them on to others.  This additional process is beneficial to all parties involved and is warranted given the risk of potential harm.
+
+Again, we can use agile thinking and ask ourselves -  Can we reduce the risk by having smaller or more frequent interactions? How can we be more transparent? We can also retrospect on ways of working through the lens of trust and potentially look to remove processes that are not mutually beneficial.
+
+Ultimately, our processes need to save time, and provide better outcomes in proportion to the risks they address.
+
+
 # Measuring Trust
 
-It isn’t always possible to directly measure trust reliability at an individual level, but we know that trust plays an important part in delivering important outcomes for your organisation. 
+It isn’t always possible to directly measure trust reliability at an individual level, but we know that trust plays an important part in delivering important outcomes for your organisation. 
 
-For example, the following are factors that could identify a trust issue, or be enhanced by a strong trust relationship: 
+For example, the following are factors that could identify a trust issue, or be enhanced by a strong trust relationship: 
 
 -   The throughput of quality work into production
 -   The agility of the organisation, and how the organisation manages change
@@ -305,7 +347,7 @@ The authors acknowledge that there is additional input and opportunity for the c
 
 # Techniques and Resources
 
-There are many tools and techniques already developed that help to establish trust. We have outlined practical ways to apply the TRUST Framework in the companion playbook (draft in progress), where you can find tools and techniques applicable to each stage of the trust relationship.
+There are many tools and techniques already developed that help to establish trust. We have outlined practical ways to apply the TRUST Framework in the companion playbook *(draft in progress)*, where you can find tools and techniques applicable to each stage of the trust relationship.
 
 We hope the community will contribute additional resources as we evolve the framework and the playbook over time.  If you have ideas to contribute, please see the ‘Joining the Community’ section below.
 
